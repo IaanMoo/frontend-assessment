@@ -24,3 +24,6 @@ Exercise 2
 ###### Bonus points
 * For the bonus points I added a little bit of my style and exhibit how something so simple can look amazing.
 * For the answer on why `('b' + 'a' + + 'a' + 'a').toLowerCase()` is `banana` , this is because  `+ + 'a'` is then converted to `+(+'a')` and since `'a'` is not a number it returns NaN which means `"Not a Number"`, that explanation might be confusing, let me simplify it further, let's say you create a variable with a value of 5 `const value = 5` your saying that the value is positive 5, you can actually also type it like this `const value = +5` this is called a unary operator, we don't usually see this except for when we give a number a negative value like `const value = -5`, and that's my answer to that, hope that was clear.
+
+
+Hope you liked it. Thank you
