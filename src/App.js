@@ -8,7 +8,6 @@ import Exercise2 from './Pages/exercise2';
 
 function App() {
 
-  const [currentPage, setCurrentPage] = React.useState('')
   return (
     <BrowserRouter>
       <Routes>
