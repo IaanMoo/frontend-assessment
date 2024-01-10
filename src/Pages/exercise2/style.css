@@ -1,0 +1,72 @@
+.tabs-body, .accordion-body{
+    position:fixed;
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: #6552a7;
+    color: white;
+}
+.responsive-accordion, .responsive-accordion {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs {
+  margin: 0 auto 0 auto;
+  display: flex;
+}
+
+.tab {
+  font-family: 'Bungee Shade', sans-serif;
+  font-size: 30px;
+  transition: 1s;
+  padding: 10px;
+  border-right: 1px solid white;
+  cursor: pointer;
+  background-color: #6552a7;
+  text-align: center;
+}
+
+.tab:hover {
+  background-color: #463585;
+  transition: 1s;
+  font-size: 40px;
+}
+
+.active {
+  background-color: #271b50;
+  transition: 1s;
+  font-size: 35;
+}
+
+.content {
+  font-family: 'Monda', sans-serif;
+  padding: 20px;
+  border: 1px solid white ;
+  transition:1s;
+  font-size: 20px;
+  margin-top: 10px;
+  letter-spacing: 2px;
+}
+
+.simplicity-text-desktop{
+  margin-top:150px;
+  font-family: 'Monoton', sans-serif;
+  transition:3s;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.simplicity-text-mobile{
+  margin-top:20px;
+  font-family: 'Monoton', sans-serif;
+  border-bottom: 1px solid white;
+  transition:3s;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 2px;
+}

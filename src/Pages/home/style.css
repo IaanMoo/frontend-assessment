@@ -1,0 +1,44 @@
+.home-body{
+    position:fixed;
+    padding:0;
+    margin:0;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background-color: #6552a7;
+    color: white;
+}
+
+.home-header{
+  text-align: center;
+  font-family: 'Bungee Shade', sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.exercise1-button{
+  display: block;
+  font-family: 'Bungee Shade', sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 50px;
+  border: 1px solid white ;
+  transition:1s;
+}
+.exercise2-button{
+  display: block;
+  font-family: 'Bungee Shade', sans-serif;
+  color: white;
+  text-decoration: none;
+  font-size: 50px;
+  border: 1px solid white ;
+  transition:1s;
+}
+
+.exercise1-button:hover, .exercise2-button:hover{
+  font-size:70px;
+  transition:1s;
+  background-color: #45347e;
+}
