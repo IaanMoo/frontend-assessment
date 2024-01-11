@@ -3,7 +3,7 @@ import data from './data.json'
 import './style.css'
 
 const Exercise2 = () => {
-  const [activeIndex, setActiveIndex] = useState(null)
+  const [activeIndex, setActiveIndex] = useState(0)
   const [isMobile, setIsMobile] = useState(window.innerWidth <= 768)
 
   const handleTabClick = (index) => {
