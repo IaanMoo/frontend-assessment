@@ -4,7 +4,7 @@ Hi, I'm Ian Jason C. Etruiste and this is my submission for the technical assess
 
 For this assessment, I used React.js and created an App with a simple home page where you can find a link going to Exercise 1 and Exercise 2
 
-I deployed my work online, you can check it out here : https://etruiste-frontend-assessment.web.app
+I deployed my work online, you can check it out here : https://etruiste-frontend-assessment.firebaseapp.com
 
 If you would like to run this app on your local, you can follow these steps :
 1. Make sure you have Node installed and the version should be v20 (I specifically used v20.9.0 but you can use any version under v20)
