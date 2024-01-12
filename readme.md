@@ -15,10 +15,12 @@ If you would like to run this app on your local, you can follow these steps :
 Exercise 1
 ---
 * For Exercise 1, you can find the code by going to the path `src/Pages/exercise1`, take note that the images are saved in `src/Assets/exercise1`
+* You can also find my results for Exercise 1 by going to this link https://etruiste-frontend-assessment.firebaseapp.com/Exercise1
 
 Exercise 2
 ---
 * For Exercise 2, you can find the code by going to the path `src/Pages/exercise2`
+* You can also find my results for Exercise 2 by going to this link https://etruiste-frontend-assessment.firebaseapp.com/Exercise2
 
 
 ###### Bonus points
